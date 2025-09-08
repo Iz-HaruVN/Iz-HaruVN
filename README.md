@@ -1,16 +1,15 @@
-## Hi there 👋
+**New year-New world**
+``` cpp
+std::string gt="Hello,new world!";
+printf ("%s\n",gt.c_str());
+```
+\
+👋 Hi, I’m Lê Xuân Lâm \
+👀 I’m interested in learning C++ \
+🌱 I’m currently learning in Yen Dinh 2 high school\
+💞️ I'd rather die alone than trust in love...\
+📫 How to reach me lexuanlam290109@gmail.com\
+*I never quit **minecraft**, I just take a really long break from it.*\
+OceanGithupVN/Lê Xuân Lâm is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
-<!--
-**Iz-HaruVN/Iz-HaruVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>"You spill blood, you pay with blood. That’s the code..."
