@@ -12,7 +12,7 @@ Hi! My name is: **Lâm**. I'm currently a student of [Yên định 2](http://yen
 - Back-end dev.
 - Religion: **None** - **folk**.
 - currently playing: Minecraft (prefer bedrock), War Thunder *(I'm quit already)*,...
-- Good at: <img src="https://i.imgur.com/qgdFuhG.png" alt="C++" width="16" height="16"/> **C++**, **C#** (learning), <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="Python" width="16" height="16"/> **Python** (learing).
+- Good at: <img src="https://i.imgur.com/qgdFuhG.png" alt="C++" width="16" height="16"/> **C++**, **C#** (learning), <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="Python" width="16" height="16"/> **Python** (learning).
 - Understand: <img src="https://i.imgur.com/3KyfuCu.png" alt="Vietnamese" width="16" height="16"/> **Vietnamese (Native)** and **English** (no certificate).
 - Reach me with [Curse Forge](https://www.curseforge.com/members/izvekhharuvn/projects) or Gmail: lexuanlam290109@gmail.com
 > others:
