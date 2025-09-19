@@ -17,6 +17,8 @@ Hi! My name is: **Lâm**. I'm currently a student of [Yên định 2](http://yen
 - Reach me with [Curse Forge](https://www.curseforge.com/members/izvekhharuvn/projects) or Gmail: lexuanlam290109@gmail.com
 > others:
  - Featured repositories: [Forcing Vibrant visual](https://github.com/Iz-HaruVN/force-Vibrant-Visuals-for-unsupported-device).
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iz-HaruVN)
 ---
 ![image2](https://github.com/Iz-HaruVN/Iz-HaruVN/blob/main/assets/2025-09-01_20.03.03.png)
 >"You spill blood, you pay with blood. That’s the code..."
