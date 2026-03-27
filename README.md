@@ -20,4 +20,4 @@ Hi! My name is: **Lâm**. I'm currently a student of [Yên định 2](http://yen
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iz-HaruVN&show_icons=true&hide_border=true&theme=tokyonight)
 ---
 ![image2](https://github.com/Iz-HaruVN/Iz-HaruVN/blob/main/assets/2025-09-01_20.03.03.png)
->"YoPeople can't be led with brute force. You'll lose their hearts".
+>"People can't be led with brute force. You'll lose their hearts".
